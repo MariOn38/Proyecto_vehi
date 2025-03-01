@@ -8,3 +8,6 @@ Pandas
 Plotly-express
 Streamlit
 
+(Enlace al repositorio de GitHub) [https://github.com/MariOn38/Proyecto_vehi.git]
+(Enlace a la aplicación en Render) [https://proyecto-vehi-2.onrender.com]
+
